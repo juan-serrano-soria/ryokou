@@ -1,10 +1,20 @@
 import './App.css';
+import Navbar from './components/Navbar';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+
+
+// used Routes instead of Switch, maybe not the exact same functionality
 
 function App() {
   return (
-    <div className="App">
-      <h1>Ryokou</h1>
-    </div>
+    <>
+      <Router>
+        <Navbar />
+        <Routes>
+          <Route path='/' exact />
+        </Routes>
+      </Router>
+    </>
   );
 }
 
