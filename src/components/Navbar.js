@@ -13,7 +13,7 @@ function Navbar() {
   const closeMenu = () => setClick(false);
 
   const showButton = () => {
-    if(window.innerWidth <= 960) {
+    if(window.innerWidth <= 760) {
       setButton(false);
     } else {
       setButton(true);
