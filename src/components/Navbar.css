@@ -101,7 +101,8 @@
     }
   
     .nav-links {
-      margin-top: -515px;
+      /* doesnt work on all heights, fix*/
+      /* margin-top :xvh */
       text-align: center;
       padding: 2rem;
       width: 100%;
