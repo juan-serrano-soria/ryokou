@@ -101,6 +101,7 @@
     }
   
     .nav-links {
+      margin-top: -515px;
       text-align: center;
       padding: 2rem;
       width: 100%;
