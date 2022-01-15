@@ -7,9 +7,9 @@ function Cards() {
       <h1>Check out these popular destinations</h1>
       <div className='cards__container'>
         <div className='cards__wrapper'>
-          <div className='cards__items'>
+          <ul className='cards__items'>
             <Carditem />
-          </div>
+          </ul>
         </div>
       </div>
     </div>

@@ -83,7 +83,7 @@
     .nav-menu {
       display: flex;
       flex-direction: column;
-      justify-content: start;
+      justify-content: flex-start;
       width: 100%;
       height: 90vh;
       position: absolute;
@@ -158,8 +158,7 @@
     }
   
     .nav-links-mobile:hover {
-      background: #fff;
-      color: #242424;
+      background: rgb(235, 42, 67);
       transition: 250ms;
     }
   }
