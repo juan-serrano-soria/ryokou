@@ -16,6 +16,32 @@ function Cards() {
               label='#1 destination'
               path='/Services'
             />
+            <Carditem 
+              src='/images/tokyo.jpg'
+              text="Tokyo: the world's most populous metropolis"
+              label='#1 destination'
+              path='/Services'
+            />
+          </ul>
+          <ul className='cards__items'>
+            <Carditem 
+              src='/images/tokyo.jpg'
+              text="Tokyo: the world's most populous metropolis"
+              label='#1 destination'
+              path='/Services'
+            />
+            <Carditem 
+              src='/images/tokyo.jpg'
+              text="Tokyo: the world's most populous metropolis"
+              label='#1 destination'
+              path='/Services'
+            />
+            <Carditem 
+              src='/images/tokyo.jpg'
+              text="Tokyo: the world's most populous metropolis"
+              label='#1 destination'
+              path='/Services'
+            />
           </ul>
         </div>
       </div>
