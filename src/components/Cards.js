@@ -3,7 +3,7 @@ import Carditem from './Carditem'
 
 function Cards() {
   return (
-    <div className='caards'>
+    <div className='cards'>
       <h1>Check out these popular destinations</h1>
       <div className='cards__container'>
         <div className='cards__wrapper'>
