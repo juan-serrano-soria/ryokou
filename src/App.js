@@ -7,6 +7,7 @@ import './App.css';
 import Services from './components/pages/Services';
 import Products from './components/pages/Products';
 import SignUp from './components/pages/SignUp';
+import Footer from './components/Footer';
 
 // used Routes instead of Switch, maybe not the exact same functionality
 
@@ -21,6 +22,7 @@ function App() {
           <Route path='/products' exact element={<Products />} />
           <Route path='/sign-up' exact element={<SignUp />} />
         </Routes>
+        <Footer />
     </Router>
     </>
   );
