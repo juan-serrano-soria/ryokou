@@ -89,14 +89,14 @@ function Footer() {
             >
               <i class='fab fa-instagram' />
             </Link>
-            <Link
+            <a
               class='social-icon-link youtube'
-              to='/'
+              href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'
               target='_blank'
               aria-label='Youtube'
             >
               <i class='fab fa-youtube' />
-            </Link>
+            </a>
             <Link
               class='social-icon-link twitter'
               to='/'
@@ -105,14 +105,22 @@ function Footer() {
             >
               <i class='fab fa-twitter' />
             </Link>
-            <Link
-              class='social-icon-link twitter'
-              to='/'
+            <a
+              class='social-icon-link github'
+              href='https://github.com/juan-serrano-soria/ryokou'
+              target='_blank'
+              aria-label='LinkedIn'
+            >
+              <i class='fab fa-github' />
+            </a>
+            <a
+              class='social-icon-link linkedin'
+              href='https://www.linkedin.com/in/juan-serrano-soria/'
               target='_blank'
               aria-label='LinkedIn'
             >
               <i class='fab fa-linkedin' />
-            </Link>
+            </a>
           </div>
         </div>
       </section>

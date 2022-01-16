@@ -78,7 +78,37 @@
 }
 
 .footer-link-items a:hover {
-  color: #e9e9e9;
+  color: #e9e9e9c4;
+  transition: 0.3s ease-out;
+}
+
+.social-icon-link.facebook:hover {
+  color: #4e68ff;
+  transition: 0.3s ease-out;
+}
+
+.social-icon-link.instagram:hover {
+  color: #ff67cc;
+  transition: 0.3s ease-out;
+}
+
+.social-icon-link.youtube:hover {
+  color: #ff4d4d;
+  transition: 0.3s ease-out;
+}
+
+.social-icon-link.twitter:hover {
+  color: #37afffc4;
+  transition: 0.3s ease-out;
+}
+
+.social-icon-link.github:hover {
+  color: #e9e9e9c4;
+  transition: 0.3s ease-out;
+}
+
+.social-icon-link.linkedin:hover {
+  color: #4973fcc4;
   transition: 0.3s ease-out;
 }
 
