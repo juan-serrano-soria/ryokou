@@ -12,14 +12,14 @@ function Cards() {
           <ul className='cards__items'>
             <Carditem 
               src='/images/tokyo.jpg'
-              text="Tokyo: the world's most populous metropolis"
+              text="Tokyo: enjoy both neon lights and temples in a modern and traditional mix."
               label='#1 destination'
               path='/Services'
             />
             <Carditem 
-              src='/images/tokyo.jpg'
-              text="Tokyo: the world's most populous metropolis"
-              label='#1 destination'
+              src='/images/osaka.jpg'
+              text="Osaka: enjoy 'the city of comedy' and its agreeable folks."
+              label='friendly locals'
               path='/Services'
             />
           </ul>
