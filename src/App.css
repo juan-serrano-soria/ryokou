@@ -8,7 +8,8 @@
 .home,
 .services,
 .products,
-.sign-up {
+.sign-up,
+.under-construction {
   display: flex;
   height: 90vh;
   align-items: center;
@@ -48,3 +49,15 @@
   color: #fff;
   font-size: 100px;
 }
+
+
+.under-construction { 
+  /*background-image: url('../public/images/metal-grid.jpg');*/
+  background-color: rgb(235, 42, 68);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+

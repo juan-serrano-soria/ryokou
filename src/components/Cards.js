@@ -14,13 +14,13 @@ function Cards() {
               src='/images/tokyo.jpg'
               text="Tokyo: enjoy both neon lights and temples in a modern and traditional mix."
               label='#1 destination'
-              path='/Services'
+              path='/under-construction'
             />
             <Carditem 
               src='/images/osaka.jpg'
               text="Osaka: enjoy 'the city of comedy' and its agreeable folks."
               label='friendly locals'
-              path='/Services'
+              path='/under-construction'
             />
           </ul>
           <ul className='cards__items'>
@@ -28,19 +28,19 @@ function Cards() {
               src='/images/tokyo.jpg'
               text="Tokyo: the world's most populous metropolis"
               label='#1 destination'
-              path='/Services'
+              path='/under-construction'
             />
             <Carditem 
               src='/images/tokyo.jpg'
               text="Tokyo: the world's most populous metropolis"
               label='#1 destination'
-              path='/Services'
+              path='/under-construction'
             />
             <Carditem 
               src='/images/tokyo.jpg'
               text="Tokyo: the world's most populous metropolis"
               label='#1 destination'
-              path='/Services'
+              path='/under-construction'
             />
           </ul>
         </div>

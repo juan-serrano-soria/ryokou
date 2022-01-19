@@ -8,6 +8,7 @@ import Services from './components/pages/Services';
 import Products from './components/pages/Products';
 import SignUp from './components/pages/SignUp';
 import Footer from './components/Footer';
+import UnderConstruction from './components/pages/UnderConstruction';
 
 // used Routes instead of Switch, maybe not the exact same functionality
 
@@ -21,6 +22,7 @@ function App() {
           <Route path='/services' exact element={<Services />} />
           <Route path='/products' exact element={<Products />} />
           <Route path='/sign-up' exact element={<SignUp />} />
+          <Route path='/under-construction' exact element={<UnderConstruction />} />
         </Routes>
         <Footer />
     </Router>
