@@ -25,21 +25,21 @@ function Cards() {
           </ul>
           <ul className='cards__items'>
             <Carditem 
-              src='/images/tokyo.jpg'
-              text="Tokyo: the world's most populous metropolis"
-              label='#1 destination'
+              src='/images/under-construction.jpg'
+              text="Under Construction..."
+              label='Under Construction...'
               path='/under-construction'
             />
             <Carditem 
-              src='/images/tokyo.jpg'
-              text="Tokyo: the world's most populous metropolis"
-              label='#1 destination'
+              src='/images/under-construction.jpg'
+              text="Under Construction..."
+              label='Under Construction...'
               path='/under-construction'
             />
             <Carditem 
-              src='/images/tokyo.jpg'
-              text="Tokyo: the world's most populous metropolis"
-              label='#1 destination'
+              src='/images/under-construction.jpg'
+              text="Under Construction..."
+              label='Under Construction...'
               path='/under-construction'
             />
           </ul>
