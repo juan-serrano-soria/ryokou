@@ -71,3 +71,13 @@
   }
 }
 
+@media screen and (max-width: 560px) {
+  
+  .services,
+  .products,
+  .sign-up,
+  .under-construction {
+    font-size: 50px;
+  }
+}
+
